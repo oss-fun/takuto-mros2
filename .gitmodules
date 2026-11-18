@@ -1,4 +1,4 @@
 [submodule "embeddedRTPS"]
 	path = embeddedRTPS
-	url = git@github.com:tauto1127/embeddedRTPS.git
-branch = service-communication
+	url = https://github.com/oss-fun/takuto-embeddedRTPS.git
+	branch = integration/network-migration
